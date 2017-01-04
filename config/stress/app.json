@@ -1,0 +1,13 @@
+{
+  "server": {
+    "port": 9000
+  },
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "redhat",
+    "database": ""
+  },
+  "api": {
+  }
+}
